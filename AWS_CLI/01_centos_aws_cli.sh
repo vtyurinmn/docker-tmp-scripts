@@ -1,4 +1,9 @@
 #!/bin/bash -e
+
+#
+# Install AWS CLI on CentOS
+#
+
 cd /root
 mkdir tmp
 cd tmp
